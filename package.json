@@ -2,7 +2,7 @@
   "name": "d-bot",
   "version": "0.0.0",
   "description": "discord bot",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/yololiveonetime/d-bot/issues"
   },
-  "homepage": "https://github.com/yololiveonetime/d-bot#readme"
+  "homepage": "https://github.com/yololiveonetime/d-bot#readme",
+  "dependencies": {
+    "discordie": "^0.11.0"
+  }
 }
