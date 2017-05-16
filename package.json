@@ -1,0 +1,22 @@
+{
+  "name": "d-bot",
+  "version": "0.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yololiveonetime/d-bot.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Brandon Allen <bran.mallen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yololiveonetime/d-bot/issues"
+  },
+  "homepage": "https://github.com/yololiveonetime/d-bot#readme"
+}
